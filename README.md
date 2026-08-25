@@ -14,18 +14,6 @@ Helping others master the Rubik's cube
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) ![SQL](https://img.shields.io/badge/SQL-3776AB?style=for-the-badge&logo=sql&logoColor=white) ![C++](https://img.shields.io/badge/C%2B%2B-3776AB?style=for-the-badge&logo=c&logoColor=white) ![C](https://img.shields.io/badge/C-3776AB?style=for-the-badge&logo=c&logoColor=white) ![JAVA](https://img.shields.io/badge/JAVA-3776AB?style=for-the-badge&logo=java&logoColor=white)
 
-## 📊 GitHub Stats
-
-<div align="center">
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=sanjayragavendrakumaresan&show_icons=true&theme=dark&hide_border=true)
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=sanjayragavendrakumaresan&theme=dark&hide_border=true)
-
-![GitHub Streak](https://streak-stats.demolab.com/?user=sanjayragavendrakumaresan&theme=dark&hide_border=true)
-![Visitor Count](https://komarev.com/ghpvc/?username=sanjayragavendrakumaresan&color=blueviolet&style=flat-square&label=Profile+Views)
-
-</div>
-
 ## 📈 Recent Activity
 
 <!--START_SECTION:activity-->
